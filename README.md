@@ -1,4 +1,6 @@
+
 # Java Tutorials: #03 Building a RESTful Web Service with Spring Boot Actuator and start with Integration Tests
+[![Build Status](https://travis-ci.org/alissonphp/java-spring-tutorial-03.svg?branch=main)](https://travis-ci.org/alissonphp/java-spring-tutorial-03)
 #### Main goal:
 
 - Use Actuator
